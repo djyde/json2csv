@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[` 1`] = `
+"name,age,isDeleted
+foo,126,false
+bar,122,false
+a,123,true
+b,145,false
+fooc,142,true"
+`;
+
+exports[`json2csv should match snapshot 1`] = `
+"name,age,isDeleted
+foo,126,false
+bar,122,false
+a,123,true
+b,145,false
+fooc,142,true"
+`;
+
+exports[`json2csv should match snapshot 2`] = `
+"name,age
+foo,126
+bar,122
+a,123
+b,145
+fooc,142"
+`;
+
+exports[`json2csv should match snapshot 3`] = `
+"name,isDeleted,age
+foo,false,126
+bar,false,122
+a,true,123
+b,false,145
+fooc,true,142"
+`;

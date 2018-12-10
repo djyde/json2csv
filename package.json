@@ -1,0 +1,10 @@
+{
+  "name": "@djyde/json2csv",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
