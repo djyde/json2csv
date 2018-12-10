@@ -1,7 +1,7 @@
 # json2csv
 
 [![](https://badgen.net/npm/v/@djyde/json2csv)](https://npm.im/@djyde/json2csv)
-[![CircleCI](https://circleci.com/gh/djyde/json2csv/tree/master.svg?style=svg)](https://circleci.com/gh/djyde/json2csv/tree/master)
+[![CircleCI](https://circleci.com/gh/djyde/json2csv/tree/master.svg?style=shield)](https://circleci.com/gh/djyde/json2csv/tree/master)
 
 Easy to use CSV generator
 
