@@ -1,14 +1,5 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[` 1`] = `
-"name,age,isDeleted
-foo,126,false
-bar,122,false
-a,123,true
-b,145,false
-fooc,142,true"
-`;
-
 exports[`json2csv should match snapshot 1`] = `
 "name,age,isDeleted
 foo,126,false
