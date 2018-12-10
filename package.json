@@ -1,8 +1,12 @@
 {
   "name": "@djyde/json2csv",
   "main": "index.js",
+  "version": "0.1.0",
   "scripts": {
     "test": "jest"
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "devDependencies": {
     "jest": "^23.6.0"
